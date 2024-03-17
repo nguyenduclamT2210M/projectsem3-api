@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K7ELVvYSd1FvMZmbej28U0NjQONZvOwpcYOVrx7QNuI=",
+  "Source": "projectsem3-api",
+  "BasePath": "_content/projectsem3-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
